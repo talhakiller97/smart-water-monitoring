@@ -2,6 +2,10 @@
 
 This project is an end-to-end machine learning system designed to detect potential water pipeline leakage in real time using sensor data and geographic information. It combines model training, a RESTful API, and a live dashboard with GIS visualization.
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/Built_with-Streamlit-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 ---
 
 ## 📦 Project Structure
