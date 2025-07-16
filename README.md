@@ -6,6 +6,9 @@ This project is an end-to-end machine learning system designed to detect potenti
 ![Streamlit](https://img.shields.io/badge/Built_with-Streamlit-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
+![Screenshot 2025-07-14 124152](https://github.com/user-attachments/assets/f40cb8a2-7f60-43c9-89ae-a3ae2b631592)
+
+
 ---
 
 ## 📦 Project Structure
@@ -108,7 +111,9 @@ Keep app.py running while using the dashboard.
 Ensure location_aware_gis_leakage_dataset.csv is placed in the data/ directory before training.
 
 leakage_log.csv is created automatically.
+
 🧾 License
+
 MIT License — use freely with credit.
 
 Contributions are welcome. Open an issue or submit a pull request to improve the system.
